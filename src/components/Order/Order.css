@@ -1,0 +1,10 @@
+.Order {
+     width: 80%;
+     border: 1px solid #ccc;
+     box-shadow : 0 2px 3px #ccc;
+     padding: 10px;
+     margin: 10px auto;
+     box-sizing: border-box;
+     border-top: 5px solid;
+     border-image:   linear-gradient(to right, grey 25%, yellow 25%, yellow 25%,red 50%, red 50%, teal 75%, #703B09 25%, #703B09 25%)  6;
+}
